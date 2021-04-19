@@ -1,6 +1,8 @@
-# Clone da Netflix :tv:
+# Clone da Netflix 🖥️
 
 ### Sagaflix
+
+- 2º Projeto HTML, CSS e 1° Projeto JS;
 
 Criei um clone do menu da Netflix chamado Sagaflix, onde possui algumas das sagas mais famosas de filmes e séries. Mais especificamente as sagas Harry Potter, Marvel e DC.
 
